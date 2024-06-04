@@ -1,0 +1,14 @@
+{
+    "name": "hooman/hexlet-php",
+    "description": "This is a sample PHP project for Hexlet",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Paramonov",
+            "email": "denis_paramon@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
