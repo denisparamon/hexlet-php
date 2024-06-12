@@ -1,6 +1,14 @@
 <?php
 
-namespace Hexlet\Php\Runner;
+namespace Hexlet\Php;
+
+class Runner
+{
+    public static function run()
+    {
+        return ['TAYLOR', 'ABIGAIL', ''];
+    }
+}
 
 function run()
 {
@@ -10,3 +18,4 @@ function run()
 
     return $collection;
 }
+

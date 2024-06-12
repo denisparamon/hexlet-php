@@ -12,5 +12,10 @@
     "minimum-stability": "stable",
     "require": {
         "illuminate/collections": "^11.9"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
     }
 }
