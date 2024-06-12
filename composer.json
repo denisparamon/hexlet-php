@@ -17,5 +17,12 @@
         "files": [
             "src/Runner.php"
         ]
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.10"
+    },
+    "scripts": {
+        "test": "phpunit",
+        "phpcs": "phpcs"
     }
 }
